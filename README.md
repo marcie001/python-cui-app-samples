@@ -11,3 +11,7 @@
 ```
 python contacts.py data.txt
 ```
+
+## Raspberry PiでLチカ
+
+https://www.raspberrypi.org/documentation/usage/gpio/python/README.md
