@@ -15,3 +15,19 @@ python contacts.py data.txt
 ## Raspberry PiでLチカ
 
 https://www.raspberrypi.org/documentation/usage/gpio/python/README.md
+
+## weather.py
+
+指定した町の現在の天気を表示するアプリです。
+
+事前準備
+
+```
+python -m pip install requests
+```
+
+実行方法。 `--city` を指定しないと実行したマシンの地域の天気を表示します。
+
+```
+python weather.py --city 札幌
+```
