@@ -18,7 +18,7 @@ https://www.raspberrypi.org/documentation/usage/gpio/python/README.md
 
 ## weather.py
 
-指定した町の現在の天気を表示するアプリです。
+指定した町の現在の天気を表示するアプリです。天気の情報は wttr.in から取得しています。 [Github](https://github.com/chubin/wttr.in) に API の説明があります。
 
 事前準備
 
